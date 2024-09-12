@@ -1,16 +1,9 @@
 ---
-title: "Assignment 1 - A Sample Markdown Document"
-author: "Son Nguyen"
-date: "2024-09-05"
-output:
-  html_document:
-    toc: true
-    toc_float: true
-  word_document:
-    toc: true
-  pdf_document:
-    toc: true
+title: "Assignment 1 - Quarto"
+format: html
+editor: visual
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
